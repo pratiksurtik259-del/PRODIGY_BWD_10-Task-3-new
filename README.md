@@ -1,4 +1,4 @@
-# PRODIGY_BWD_10-Task-3-new
+# PRODIGY_BWD_10-Task-3
 
 Implement authentication and authorization
 using JSON Web Tokens (JWT).Add user registration and login endpoints.Store hashed passwords using a library like
